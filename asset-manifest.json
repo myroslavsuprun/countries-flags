@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myroslavsuprun/countries-flags.git/static/css/main.e937bdad.css",
+    "main.js": "/myroslavsuprun/countries-flags.git/static/js/main.942575cd.js",
+    "index.html": "/myroslavsuprun/countries-flags.git/index.html",
+    "main.e937bdad.css.map": "/myroslavsuprun/countries-flags.git/static/css/main.e937bdad.css.map",
+    "main.942575cd.js.map": "/myroslavsuprun/countries-flags.git/static/js/main.942575cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e937bdad.css",
+    "static/js/main.942575cd.js"
+  ]
+}
