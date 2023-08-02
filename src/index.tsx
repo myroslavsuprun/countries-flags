@@ -14,7 +14,7 @@ const root = ReactDOMClient.createRoot(rootElement);
 root.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/countries-flags">
+      <BrowserRouter>
         <App />
       </BrowserRouter>
     </Provider>
