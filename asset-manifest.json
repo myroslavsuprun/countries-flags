@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/countries-flags/static/css/main.e937bdad.css",
-    "main.js": "/countries-flags/static/js/main.7b57cb93.js",
+    "main.js": "/countries-flags/static/js/main.d8dd06cb.js",
     "index.html": "/countries-flags/index.html",
     "main.e937bdad.css.map": "/countries-flags/static/css/main.e937bdad.css.map",
-    "main.7b57cb93.js.map": "/countries-flags/static/js/main.7b57cb93.js.map"
+    "main.d8dd06cb.js.map": "/countries-flags/static/js/main.d8dd06cb.js.map"
   },
   "entrypoints": [
     "static/css/main.e937bdad.css",
-    "static/js/main.7b57cb93.js"
+    "static/js/main.d8dd06cb.js"
   ]
 }
