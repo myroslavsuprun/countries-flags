@@ -1,6 +1,5 @@
 {
   "name": "countries-flags",
-  "homepage": "https://myroslavsuprun.github.io/countries-flags/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
